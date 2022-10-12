@@ -9,6 +9,7 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
+    "com.atteneder.gltfast"
   },
   "keywords": [
     "keyword1",
@@ -16,8 +17,8 @@
     "keyword3"
   ],
   "author": {
-    "name": "Kangaru",
-    "email": "kangaru@example.com",
-    "url": "https://www.kangaru.com"
+    "name": "Sarge",
+    "email": "test@example.com",
+    "url": "https://www.test.com"
   }
 }
