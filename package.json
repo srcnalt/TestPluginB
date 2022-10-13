@@ -8,17 +8,8 @@
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
-  "scopedRegistries": [
-    {
-      "name": "package.openupm.com",
-      "url": "https://package.openupm.com",
-      "scopes": [
-        "com.atteneder.gltfast"
-      ]
-    }
-  ],
   "dependencies": {
-    "com.atteneder.gltfast": "4.8.5"
+    "https://github.com/atteneder/glTFast.git": "4.8.5"
   },
   "keywords": [
     "keyword1",
