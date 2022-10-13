@@ -9,6 +9,7 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
+    "com.atteneder.gltfast": "4.8.5"
   },
   "keywords": [
     "keyword1",
