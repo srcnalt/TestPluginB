@@ -13,8 +13,7 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
-    "com.atteneder.gltfast": "4.8.5",
-    "https://github.com/HarrisonHough/TestPluginC.git": "0.1.0"
+    "com.atteneder.gltfast": "4.8.5"
   },
   "keywords": [
     "keyword1",
