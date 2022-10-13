@@ -9,7 +9,7 @@
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
-    "https://github.com/atteneder/glTFast.git": "4.8.5"
+    "com.atteneder.gltfast": "[URL]https://github.com/atteneder/glTFast.git#4.8.5[/URL]"
   },
   "keywords": [
     "keyword1",
